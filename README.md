@@ -73,8 +73,7 @@ The dashboard enables users to identify:
 - Relationships between sales value and quantity sold
 
 ## Dashboard Preview
-
-![Customer Sales Dashboard](dashboard.png)
+<img width="1438" height="810" alt="image" src="https://github.com/user-attachments/assets/8a76941e-30c3-465a-bf8e-5f7a4dfbbac0" />
 
 ## Project Workflow
 
